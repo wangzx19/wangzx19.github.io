@@ -102,9 +102,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 # Site Header
-excerpt: "Hi! I am Zixuan Wang.  I am an undergraduate in Institutes for Interdisciplinary Information Sciences (IIIS), Tsinghua University. 
-
-My research interests lie in **theoretical machine learning** and **non-convex optimization.** I am searching for a Ph.D. position in 2023 Fall. I am eager to explore the mystery of deep learning in aspects of optimization and generalization, and actively search for theoretical explanations to it."
+excerpt: "Hi! I am Zixuan Wang.  I am an undergraduate in Institutes for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My research interests lie in **theoretical machine learning** and **non-convex optimization.** I am searching for a Ph.D. position in 2023 Fall. I am eager to explore the mystery of deep learning in aspects of optimization and generalization, and actively search for theoretical explanations to it."
 
 # Site Author
 author:
@@ -118,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "wangzx2019012326@gmail.com"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google-square"
+      icon: "fas fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=zh-CN&user=vNJDZyEAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
