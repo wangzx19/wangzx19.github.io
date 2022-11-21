@@ -6,4 +6,4 @@ excerpt: ''
 date: 2022-11-17
 paperurl: 'http://academicpages.github.io/files/EoS_tex_ICLRv2.pdf'
 ---
-Xingyu Zhu$^*$, **Zixuan Wang$^*$** , Xiang Wang, Mo Zhou, Rong Ge.
+Xingyu Zhu$^*$, **Zixuan Wang$^*$** , Xiang Wang, Mo Zhou, Rong Ge. (Submitted to ICLR 2023)
