@@ -4,7 +4,7 @@ title:
 description: "Zixuan's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: flowertank.png
+  feature: mountain.png
 ---
 
 Hi! I am Zixuan Wang.  I am an undergraduate in Institutes for Interdisciplinary Information Sciences (IIIS), Tsinghua University.
