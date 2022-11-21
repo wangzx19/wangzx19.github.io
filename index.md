@@ -1,7 +1,10 @@
 ---
-layout: home
+layout: home2
 title: 
-description: "Zixuan Wang's Site"
+description: "Zixuan's website"
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: flowertank.png
 ---
 
 Hi! I am Zixuan Wang.  I am an undergraduate in Institutes for Interdisciplinary Information Sciences (IIIS), Tsinghua University.
