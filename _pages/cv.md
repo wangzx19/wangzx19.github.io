@@ -31,7 +31,7 @@ Student Research Intern, advised by [Prof. Rong Ge]([Rong Ge, Duke University](h
 - Theoretically analyze a simple case of decomposing a non-orthogonal ground-truth tensor. Based on the toy model, we use **the Hessian near the local minimizers** to capture the dynamics of the splitting phenomenon under over-parameterized models.
 - Design **a heuristic algorithm** and attempt to provide theoretical and empirical evidence that the algorithm is mathematically **equivalent to the gradient flow trajectory** with infinitesimal initialization for the non-orthogonal over-parameterized tensor decomposition objective.
 
-#### **Understanding EoS Training Dynamics with a Minimalist Example**
+## **Understanding EoS Training Dynamics with a Minimalist Example**
 
 <p align = "right"> 6.2022 – 10.2022</p>
 
@@ -42,7 +42,7 @@ Student Research Intern, advised by [Prof. Rong Ge]([Rong Ge, Duke University](h
 - Study EoS phenomenon from the first principle by constructing **a minimalist scalar network** with **rigorous analysis for its training dynamics**. We also show why a simpler scalar network cannot display the sharpness concentration and adaptivity property, implying the importance of **depth** for EoS to happen.
 - Empirically observe **similar trajectories in several real-world neural networks** trained on CIFAR-10.
 
-#### **Analyzing Sharpness: Progressive Sharpening and Edge of Stability**
+## **Analyzing Sharpness: Progressive Sharpening and Edge of Stability**
 
 <p align = "right"> 2.2021 – 5.2022</p>
 
@@ -53,8 +53,8 @@ Independent research project together with Zhouzi Li, advised by [Prof. Jian Li]
 - Empirically identify the norm of output layer weight as an interesting indicator of the sharpness dynamics, and **heuristically explain the dynamics of various essential quantities (including the training loss and** **the sharpness) in each phase of EoS** for general neural networks under a set of assumptions.
 - Theoretically **prove the sharpness behavior** in the **EoS regime** in a **two-layer fully-connected linear neural network** with less and weaker assumptions.
 
-Publications
-======
+# Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
