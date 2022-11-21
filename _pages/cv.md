@@ -35,7 +35,7 @@ Research experience
 
 <p align = "right"> 6.2022 – 10.2022</p>
 
-**Student Research Intern, advised by [Prof. Rong Ge**]([Rong Ge, Duke University](https://users.cs.duke.edu/~rongge/))
+**Student Research Intern, advised by [Prof. Rong Ge]([Rong Ge, Duke University](https://users.cs.duke.edu/~rongge/))**
 
 - Focus on understanding the convergence in the **EoS** regime: despite the occurrence of **EoS**, the loss oscillates and converges eventually to some minimum. **The sharpness at the end is just slightly below** 2/η **(valid for different initialization & step size)** in various settings.
 - Show that many well-understood nonconvex objectives (e.g. matrix factorization or two-layer linear networks) can also converge when EoS happens, there is often **a larger gap between the sharpness of the endpoint and** 2/η**.**
@@ -46,7 +46,7 @@ Research experience
 
 <p align = "right"> 2.2021 – 5.2022</p>
 
-**Independent research project together with Zhouzi Li, advised by [Prof. Jian Li**]([Jian Li's Homepage (tsinghua.edu.cn)](http://people.iiis.tsinghua.edu.cn/~jianli/))
+**Independent research project together with Zhouzi Li, advised by [Prof. Jian Li]([Jian Li's Homepage (tsinghua.edu.cn)](http://people.iiis.tsinghua.edu.cn/~jianli/))**
 
 - Focus on the explanation for **Edge of Stability (EoS, first discovered by Cohen et al. 2021):** first, the **sharpness** (the largest eigenvalue of the Hessian matrix of the training objective) increases steadily to the value 2/η (the **progressive sharpening** phase, η is the step size); then, it oscillates around this value (the **EoS** phase). However, the loss keeps decreasing monotonically though the conventional L-smoothness assumption is violated. This phenomenon is beyond the scope of traditional optimization theory. 
 - Divide the GD trajectory into four phases according to the sharpness and the stability threshold 2/η.
