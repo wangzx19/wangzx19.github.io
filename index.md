@@ -18,5 +18,7 @@ My research interests lie in **theoretical machine learning** and **non-convex o
 
 ### My CV
 
-You can download my full CV in this link: 
+You can download my <a href="https://drive.google.com/file/d/1JVimZzK3Q_BApzcfQv63rKYJb-VkL8kn/view?usp=sharing">CV</a> here.
+
+
 

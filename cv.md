@@ -1,15 +1,12 @@
 ---
 layout: cv
 permalink: /cv/
-title: My CV
+title: 
 tags: [about]
 modified: 12-9-2020
 comments: false
-image:
-  feature: yftank.png
----
 
-You can download my <a href="https://drive.google.com/file/d/1JVimZzK3Q_BApzcfQv63rKYJb-VkL8kn/view?usp=sharing">CV</a> here.
+---
 
 ## Research Experience
 ### **Understanding Over-paramaterized Non-orthogonal Tensor Decomposition**
@@ -24,8 +21,8 @@ Student Research Intern, advised by [Prof. Rong Ge]([Rong Ge, Duke University](h
 <p align = "right"> 6.2022 – 10.2022</p>
 
 Student Research Intern, advised by [Prof. Rong Ge]([Rong Ge, Duke University](https://users.cs.duke.edu/~rongge/))
-- Focus on understanding the convergence in the **EoS** regime: despite the occurrence of **EoS**, the loss oscillates and converges eventually to some minimum. **The sharpness at the end is just slightly below** 2*/η* **(valid for different initialization & step size)** in various settings.
-- Show that many well-understood nonconvex objectives (e.g. matrix factorization or two-layer linear networks) can also converge when EoS happens, there is often **a larger gap between the sharpness of the endpoint and** 2*/η***.**
+- Focus on understanding the convergence in the **EoS** regime: despite the occurrence of **EoS**, the loss oscillates and converges eventually to some minimum. **The sharpness at the end is just slightly below** 2/η **(valid for different initialization & step size)** in various settings.
+- Show that many well-understood nonconvex objectives (e.g. matrix factorization or two-layer linear networks) can also converge when EoS happens, there is often **a larger gap between the sharpness of the endpoint and** 2/η**.**
 - Study EoS phenomenon from the first principle by constructing **a minimalist scalar network** with **rigorous analysis for its training dynamics**. We also show why a simpler scalar network cannot display the sharpness concentration and adaptivity property, implying the importance of **depth** for EoS to happen.
 - Empirically observe **similar trajectories in several real-world neural networks** trained on CIFAR-10.
 
@@ -33,7 +30,7 @@ Student Research Intern, advised by [Prof. Rong Ge]([Rong Ge, Duke University](h
 <p align = "right"> 2.2021 – 5.2022</p>
 
 Independent research project together with Zhouzi Li, advised by [Prof. Jian Li]([Jian Li's Homepage (tsinghua.edu.cn)](http://people.iiis.tsinghua.edu.cn/~jianli/))
-- Focus on the explanation for **Edge of Stability (EoS, first discovered by Cohen et al. 2021):** first, the **sharpness** (the largest eigenvalue of the Hessian matrix of the training objective) increases steadily to the value 2/*η* (the **progressive sharpening** phase, *η* is the step size); then, it oscillates around this value (the **EoS** phase). However, the loss keeps decreasing monotonically though the conventional L-smoothness assumption is violated. This phenomenon is beyond the scope of traditional optimization theory. 
-- Divide the GD trajectory into four phases according to the sharpness and the stability threshold 2*/η*.
+- Focus on the explanation for **Edge of Stability (EoS, first discovered by Cohen et al. 2021):** first, the **sharpness** (the largest eigenvalue of the Hessian matrix of the training objective) increases steadily to the value 2/η (the **progressive sharpening** phase, η is the step size); then, it oscillates around this value (the **EoS** phase). However, the loss keeps decreasing monotonically though the conventional L-smoothness assumption is violated. This phenomenon is beyond the scope of traditional optimization theory. 
+- Divide the GD trajectory into four phases according to the sharpness and the stability threshold 2/η.
 -  Empirically identify the norm of output layer weight as an interesting indicator of the sharpness dynamics, and **heuristically explain the dynamics of various essential quantities (including the training loss and** **the sharpness) in each phase of EoS** for general neural networks under a set of assumptions.
 - Theoretically **prove the sharpness behavior** in the **EoS regime** in a **two-layer fully-connected linear neural network** with less and weaker assumptions.
