@@ -8,7 +8,6 @@ comments: false
 
 ---
 
-## Research Experience
 ### **Understanding Over-paramaterized Non-orthogonal Tensor Decomposition**
 <p align = "right"> 3.2022 – present</p>
 
