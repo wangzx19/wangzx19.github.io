@@ -5,6 +5,7 @@ url:              //wangzx19.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: jponttuset
+minimal_mistakes_skin: "contrast"
 
 # Owner/author information
 owner:
