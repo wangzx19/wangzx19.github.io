@@ -1,4 +1,2 @@
-_site
-.idea/*
-.DS_Store
-.jekyll-cache
+_site/
+
