@@ -5,7 +5,7 @@ permalink: /publication/2022-11-17-paper-title-number-2
 excerpt: ''
 venue: 'arXiv:2210.03294'
 date: 2022-11-17
-paperurl: 'http://academicpages.github.io/files/EoS_tex_ICLRv2.pdf'
+paperurl: 'http://wangzx19.github.io/files/EoS_tex_ICLRv2.pdf'
 citation: 'Zhu, X., Wang, Z., Wang, X., Zhou, M., & Ge, R. (2022). Understanding Edge-of-Stability Training Dynamics with a Minimalist Example. arXiv preprint arXiv:2210.03294.'
 ---
 Xingyu Zhu$^*$, **Zixuan Wang$^*$** , Xiang Wang, Mo Zhou, Rong Ge. (Submitted to ICLR 2023)
